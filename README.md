@@ -4,4 +4,6 @@
 
 ###### `git clone` https://github.com/paulohfsantos/Grid-Flexbox-Starbucks.git
 
+#### Projeto feito em HMTL5 e CSS3, estudo básico de Grid e Flexbox
+
 ## Thank you
